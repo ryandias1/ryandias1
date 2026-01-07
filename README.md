@@ -1,3 +1,9 @@
+# 🌎 README — PT | EN
+
+[🇧🇷 Português](#-seja-bem-vindo-ao-meu-perfil-) | [🇺🇸 English](#-welcome-to-my-profile-)
+
+---
+
 ## Seja Bem vindo ao Meu Perfil!! 👋
 
 - 🎓 Estudante de **Engenharia de Software** na **PUC Campinas** (2024–2027)
@@ -22,7 +28,7 @@
 - **Neo4j**
 - **Cloud Firestore**
 
-- ## 📚 Frameworks, Bibliotecas e Outras Ferramentas
+## 📚 Frameworks, Bibliotecas e Outras Ferramentas
 - **Node.js**
 - **SpringBoot**
 - **Firebase**
@@ -30,6 +36,40 @@
 - **NumPy**
 
 ## 📬 Contato
+- 📧 **E-mail:** chavesdiasryan@gmail.com
 
-- 📧 **E-mail:** [chavesdiasryan@gmail.com](mailto:chavesdiasryan@gmail.com)  
+---
 
+## Welcome to My Profile! 👋
+
+- 🎓 **Software Engineering** student at **PUC Campinas** (2024–2027)
+- 📖 Currently learning **Java Spring Boot** and **Backend Development**
+- 📚 Always looking to **learn**, grow, and explore the world of **Technology**
+- ☕ Coffee lover who enjoys solving problems with code
+
+## 💻 Programming & Markup Languages
+- **TypeScript**
+- **C / C++**
+- **Python**
+- **Kotlin**
+- **HTML5 / CSS3**
+- **Java**
+- **Cypher (Neo4j Query Language)**
+- **SQL**
+
+## 🗄 Databases
+- **Oracle Database**
+- **MySQL**
+- **MongoDB**
+- **Neo4j**
+- **Cloud Firestore**
+
+## 📚 Frameworks, Libraries & Other Tools
+- **Node.js**
+- **Spring Boot**
+- **Firebase**
+- **Jetpack Compose**
+- **NumPy**
+
+## 📬 Contact
+- 📧 **Email:** chavesdiasryan@gmail.com
