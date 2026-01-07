@@ -1,9 +1,5 @@
 # 🌎 README — PT | EN
 
-[🇧🇷 Português](#-seja-bem-vindo-ao-meu-perfil-) | [🇺🇸 English](#-welcome-to-my-profile-)
-
----
-
 ## Seja Bem vindo ao Meu Perfil!! 👋
 
 - 🎓 Estudante de **Engenharia de Software** na **PUC Campinas** (2024–2027)
