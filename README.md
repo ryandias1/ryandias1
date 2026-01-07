@@ -57,6 +57,7 @@
 ## 🗄 Databases
 - **Oracle Database**
 - **MySQL**
+- **PostgreSQL**
 - **MongoDB**
 - **Neo4j**
 - **Cloud Firestore**
