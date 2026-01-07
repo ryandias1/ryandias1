@@ -1,7 +1,7 @@
 ## Seja Bem vindo ao Meu Perfil!! 👋
 
 - 🎓 Estudante de **Engenharia de Software** na **PUC Campinas** (2024–2027)
-- 📖 Atualmente estudando **Java** e bancos de dados **Não Relacionais**
+- 📖 Atualmente estudando **Java Spring Boot** e **Backend**
 - 📚 Sempre buscando **Aprender** e crescer no mundo da **Tecnologia**
 - ☕ Fã de café e de resolver problemas com código
 
@@ -33,6 +33,7 @@
 
 - ## 📚 Frameworks, Bibliotecas e Outras Ferramentas
 - **Node.js**
+- **SpringBoot**
 - **Firebase**
 - **Jetpack Compose**
 - **NumPy**
