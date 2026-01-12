@@ -31,6 +31,7 @@
 - **Firebase**
 - **Jetpack Compose**
 - **NumPy**
+- **Pandas**
 
 ## 📬 Contato
 - 📧 **E-mail:** chavesdiasryan@gmail.com
@@ -68,6 +69,7 @@
 - **Firebase**
 - **Jetpack Compose**
 - **NumPy**
+- **Pandas**
 
 ## 📬 Contact
 - 📧 **Email:** chavesdiasryan@gmail.com
