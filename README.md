@@ -7,6 +7,10 @@
 - 📚 Sempre buscando **Aprender** e crescer no mundo da **Tecnologia**
 - ☕ Fã de café e de resolver problemas com código
 
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ryandias1&theme=tokyo-night&hide_border=true"/>
+</div>
+
 ## 💻 Linguagens de Programação e Marcação
 - **TypeScript**
 - **C / C++**
@@ -16,6 +20,7 @@
 - **Java**
 - **Cypher (Neo4j Query Language)**
 - **SQL**
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryandias1&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 
 ## 🗄 Bancos de Dados
 - **Oracle Database**
