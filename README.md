@@ -20,7 +20,7 @@
 - **Java**
 - **Cypher (Neo4j Query Language)**
 - **SQL**
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryandias1&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryandias1&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&hide=Jupyter%20Notebook"/>
 
 ## 🗄 Bancos de Dados
 - **Oracle Database**
@@ -59,6 +59,7 @@
 - **Java**
 - **Cypher (Neo4j Query Language)**
 - **SQL**
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryandias1&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&hide=Jupyter%20Notebook"/>
 
 ## 🗄 Databases
 - **Oracle Database**
